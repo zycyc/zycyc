@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Yicong (Alan) Zheng!
 
-🚀 Cognitive Neuroscientist [@UCDavis](https://dml.ucdavis.edu/) | Research Scientist [@Astera Institute](https://astera.org/) | 💻 Machine Learning Enthusiast | 🎓 PhD Candidate
+🚀 Cognitive Neuroscientist [@UCDavis](https://dml.ucdavis.edu/) | 🧑‍💻 Research Scientist [@Astera Institute](https://astera.org/) | 💻 Machine Learning Enthusiast | 🎓 PhD Candidate
 
 ---
 
@@ -43,6 +43,6 @@ A robust EEG preprocessing template using EEGLAB.
 
 - **Email:** [alanzycyc@gmail.com](mailto:alanzycyc@gmail.com)
 - **Website:** [zycyc.github.io](https://zycyc.github.io)
-- **Publications:** [Google Scholar](https://scholar.google.com/citations?user=kkZVq8YAAAAJ&hl=en)/[ResearchGate](https://www.researchgate.net/profile/Yicong-Zheng)
+- **Publications:** [Google Scholar](https://scholar.google.com/citations?user=kkZVq8YAAAAJ&hl=en) / [ResearchGate](https://www.researchgate.net/profile/Yicong-Zheng)
 
 ---
