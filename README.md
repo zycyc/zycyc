@@ -33,9 +33,9 @@ A local, automated agent that uses LLMs to draft email responses like YOU do.
 An assistant that does job search and customized cover letter writing using local LLM models.
 
 ---
-### [EEGLAB_pp](https://github.com/zycyc/EEGLAB_pp)
+### [Parrot](https://github.com/zycyc/Parrot)
 
-A robust EEG preprocessing template using EEGLAB.
+a Discord bot designed to monitor and forward messages between channels, facilitating message tracking and automated moderation across multiple channels and servers.
 
 ---
 
